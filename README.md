@@ -1,7 +1,6 @@
-- 😬 Hi, I’m Juan David Angarita 😎 I'm an electrical engineer but recently I'm studying software development to become one of the best of course. I have as a mantra and as a personal way to live "Just be happy". I really love swimming 🏊‍♂️ and also I love my 😺
+- 😬 Hi, I’m Juan David Angarita 😎 I'm a Backend Developer. I have as a mantra and as a personal way to live "Just be happy". I really love swimming 🏊‍♂️ and also I love my 😺
 - 👀 I’m interested in backend development and data science
-- 🌱 I’m currently learning Python and Java, focussing on Oriented Object Programming
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I specially work with Java
 - 📫 You can reach me on Twitter as @juandaangarita or LinkedIn https://www.linkedin.com/in/juandaangarita/
 
 <!---
